@@ -2,7 +2,7 @@
   "name": "to-do-list",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://AnshulNautiyal.github.io/to-do-list",
+  "homepage": "https://anshulnautiyal.github.io/TO-DO-LIST-IN-REACT/",
   "dependencies": {
     "bulma": "^0.7.2",
     "gh-pages": "^2.0.1",
